@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://s.kometa.ga/kometa.lua'))()
+loadstring(game:HttpGet('https://scripts.luawl.com/14926/BSS.lua'))()
