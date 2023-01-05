@@ -1,1 +1,475 @@
-loadstring(game:HttpGet('https://s.kometa.ga/kometa.lua'))()
+local x = true
+while x == true do
+wait(0.1)
+local args = {
+    [1] = 1,
+    [2] = 1,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 2,
+    [2] = 1,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 3,
+    [2] = 1,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 4,
+    [2] = 1,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 5,
+    [2] = 1,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 2,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 2,
+    [2] = 2,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 3,
+    [2] = 2,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 4,
+    [2] = 2,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 5,
+    [2] = 2,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 3,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 2,
+    [2] = 3,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 3,
+    [2] = 3,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 4,
+    [2] = 3,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 5,
+    [2] = 3,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 4,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 2,
+    [2] = 4,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 3,
+    [2] = 4,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 4,
+    [2] = 4,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 5,
+    [2] = 4,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 5,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 2,
+    [2] = 5,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 3,
+    [2] = 5,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 4,
+    [2] = 5,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 5,
+    [2] = 5,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 6,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 2,
+    [2] = 6,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 3,
+    [2] = 6,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 4,
+    [2] = 6,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 5,
+    [2] = 6,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 7,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 2,
+    [2] = 7,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 3,
+    [2] = 7,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 4,
+    [2] = 7,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 5,
+    [2] = 7,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 8,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 2,
+    [2] = 8,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 3,
+    [2] = 8,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 4,
+    [2] = 8,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 5,
+    [2] = 8,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 9,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 2,
+    [2] = 9,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 3,
+    [2] = 9,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 4,
+    [2] = 9,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+local args = {
+    [1] = 5,
+    [2] = 9,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 10,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 2,
+    [2] = 10,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 3,
+    [2] = 10,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 4,
+    [2] = 10,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+local args = {
+    [1] = 5,
+    [2] = 10,
+    [3] = "RoyalJelly",
+    [4] = 1,
+    [5] = false
+}
+
+game:GetService("ReplicatedStorage").Events.ConstructHiveCellFromEgg:InvokeServer(unpack(args))
+
+end
